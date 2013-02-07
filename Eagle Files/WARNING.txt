@@ -1,0 +1,11 @@
+WARNING - WARNING - WARNING
+
+The contents of this folder reflect my effort of building a USB FXO board.
+
+My only prototype has FAILED to work.
+
+Therefore it is unwise to take the correctness of any of these files as granted.
+
+These files, in their current version, are only uploaded for public scrutiny and review.
+Please do not build this project on your own just to find out it does not work.
+If the status of the project changes, this file will be updated (or deleted).
